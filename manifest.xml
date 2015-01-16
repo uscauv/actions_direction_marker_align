@@ -1,0 +1,17 @@
+<package>
+  <description brief="direction_marker_align">
+
+     direction_marker_align
+
+  </description>
+  <author>auv</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/direction_marker_align</url>
+  <depend package="rospy"/>
+  <depend package="roscpp"/>
+  <depend package="actionlib"/>
+
+</package>
+
+
