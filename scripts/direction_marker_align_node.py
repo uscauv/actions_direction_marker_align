@@ -22,7 +22,7 @@ class DirectionMarkerAlignNode():
 
     def on_action(self, action):
         rospy.loginfo('got action goal, enabling')
-        enabled = True
+        self.enabled = True
 
     def on_targets(self, targets):
         if self.enabled:
