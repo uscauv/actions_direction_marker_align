@@ -1,0 +1,8 @@
+#goal definition
+int8 target_num
+---
+#result definition
+bool success
+---
+#feedback
+float32 final_dist
